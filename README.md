@@ -6,5 +6,5 @@ Currently, I'm working as a Full Stack Web Development teacher at an incredible 
 
 #### I'm experienced in...
 - JavaScript, TypeScript, Go
-- Node, Express, SQL (Postgres), GraphQL, MongoDB
+- Node, Express, Go Fiber, SQL (Postgres), GraphQL, MongoDB
 - React (Nextjs, Gatsby, React Native), Vue (Nuxt)
